@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyViewModel</string>
+    <string name="search">Cari</string>
+    <string name="userLoginTitle">User Name</string>
+    <string name="userTypeTitle">Name</string>
+    <string name="userLogin">User Name</string>
+    <string name="userType">Name</string>
+    <string name="textUserNameTitle">Name</string>
+    <string name="textUserName">Name</string>
+    <string name="textUserLocationTitle">Location</string>
+    <string name="textUserLocation">Location</string>
+    <string name="username_agung">agung</string>
+    <string name="insert_username">insert username</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your Profile here</string>
+    <string name="content_tab_text">This is Tab</string>
+    <string name="textNameTitle">name</string>
+    <string name="textName">agung suwandaru</string>
+    <string name="textEmailTitle">email</string>
+    <string name="textEmail">agungsuwandaru@gmail.com</string>
+    <string name="textLocationTitle">location</string>
+    <string name="textLocation">jakarta</string>
+    <string name="textCompanyTitle">company</string>
+    <string name="textCompany">telkomsigma</string>
+    <string name="textFollowerTitle">follower</string>
+    <string name="textFollower">999</string>
+    <string name="textFollowingTitle">following</string>
+    <string name="textFollowing">999</string>
+    <string name="UserNameTitle">Name</string>
+</resources>
